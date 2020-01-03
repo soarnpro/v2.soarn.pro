@@ -1,6 +1,5 @@
 <head>
     <meta charset="UTF-8">
-    <title>soarn.pro v2 electric boogalo</title>
     <!-- Embed stuffs with open:graphs -->
     <meta content="soarn.pro" property="og:title" />
     <meta content="soarn.pro" property="og:description" />
@@ -20,7 +19,7 @@
     <h2 id="-ko-fi-https-www-ko-fi-com-img-githubbutton_sm-svg-https-ko-fi-com-a0a5xeje-"><a href="https://ko-fi.com/A0A5XEJE"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></h2>
   </body> -->
 
-# [soarn.pro](soarn.pro)
+# [soarn.pro v2 electric boogalo](soarn.pro)
 
 There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list soon~~.
 
