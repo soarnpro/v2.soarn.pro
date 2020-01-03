@@ -12,13 +12,24 @@
     <meta property="og:type" content="website" />
     <meta property="og:image:alt" content="soarn.pro logo" />
   </head>
-  <body>
+  <!--<body>
     <h1 id="-soarn-pro-soarn-pro-"><a href="soarn.pro">soarn.pro</a></h1>
     <p>There is a lot going on here.  Mainly, a bunch of subdomains<del>, I&#39;ll add a list soon</del>.</p>
     <h2 id="-s-soarn-pro-s-soarn-pro-"><a href="s.soarn.pro">s.soarn.pro</a></h2>
     <h2 id="-dotfiles-soarn-pro-dotfiles-soarn-pro-"><a href="dotfiles.soarn.pro">dotfiles.soarn.pro</a></h2>
     <h2 id="-ko-fi-https-www-ko-fi-com-img-githubbutton_sm-svg-https-ko-fi-com-a0a5xeje-"><a href="https://ko-fi.com/A0A5XEJE"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></h2>
-  </body>
+  </body> -->
+
+# [soarn.pro](soarn.pro)
+
+There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list soon~~.
+
+## [s.soarn.pro](s.soarn.pro)
+
+## [dotfiles.soarn.pro](dotfiles.soarn.pro)
+
+## [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5XEJE)
+
   <footer class="site-footer">
       {% if site.github.is_project_page %}
         <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
