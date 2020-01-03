@@ -1,5 +1,5 @@
 <head>
-<!-- this file is used for Google Analytics Tracking and favicon information.-->
+<!-- this file is used for Google Analytics Tracking, favicon information, and OpenGraphProtocol tags-->
 {% if site.google_analytics and jekyll.environment == 'production' %}
 {% include analytics.html %}
 {% endif %}
@@ -16,4 +16,14 @@
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="theme-color" content="#000000">
 <meta name="flattr:id" content="yjqyze">
+<!-- Embed stuffs with open:graphs -->
+<meta property="og:title" content="soarn.pro" />
+<meta property="og:description" content="soarn.pro" />
+<meta property="og:image" content="https://soarn.pro/icons/favicon-194x194.png" />
+<meta property="og:image:alt" content="soarn.pro logo" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://soarn.pro" />
+<meta property="fb:app_id" content="804473663656626" />
+<meta name="theme-color" content="#157878" /> <!--This applies a color to the embed, mainly noticable on Discord.-->
+<link type="application/json+oembed" href="https://soarn.pro/embed.json" />
 </head>
