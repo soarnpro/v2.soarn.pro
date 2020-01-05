@@ -28,15 +28,3 @@ There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list 
 ## [dotfiles.soarn.pro](dotfiles.soarn.pro)
 
 ## [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5XEJE)
-
-<footer>
-    <div id="status">
-      <a href="https://githubstatus.com">GitHub Status</a> &mdash; <a href="https://twitter.com/githubstatus">@githubstatus</a>
-    </div>
-    <div id="social">
-      <a href="https://twitter.com/soarnpro">Twitter</a> &mdash; <a href="https://steamcommunity.com/id/saorn/">Steam</a>
-    </div>
-    <div id="policies">
-      <a href="/terms_and_conditions">Terms and Conditions</a> &middot; <a href="/privacy_policy.md">Privacy Policy</a>
-    </div>
-</footer>
