@@ -37,6 +37,6 @@ There is a lot going on here.  Mainly, a bunch of subdomains~~, I'll add a list 
       <a href="https://twitter.com/soarnpro">Twitter</a> &mdash; <a href="https://steamcommunity.com/id/saorn/">Steam</a>
     </div>
     <div id="policies">
-      <a href="/terms_and_conditions">Terms and Conditions</a> &middot; <a href=/privacy_policy.md">Privacy Policy</a>
+      <a href="/terms_and_conditions">Terms and Conditions</a> &middot; <a href="/privacy_policy.md">Privacy Policy</a>
     </div>
 </footer>
